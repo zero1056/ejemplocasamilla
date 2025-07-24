@@ -323,7 +323,7 @@ footer {
   }
 }
 
-/* Pantallas menores a 768px (tablets verticales y celulares grandes) */
+/* Pantallas menores a 768px (tablets verticales y celulares grandes) 
 @media (max-width: 768px) {
   header {
     padding-left: 20px;
@@ -392,7 +392,7 @@ footer {
     text-align: center;
   }
 }
-
+*/
 /* Pantallas menores a 480px (celulares pequeños) */
 @media (max-width: 480px) {
   .texto-superpuesto {
