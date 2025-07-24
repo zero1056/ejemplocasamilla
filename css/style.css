@@ -301,7 +301,7 @@ footer {
     display: block;
   }
 }*/
-/* Pantallas menores a 1024px (tablets y laptops pequeñas) */
+/* Pantallas menores a 1024px (tablets y laptops pequeñas) 
 @media (max-width: 1024px) {
   .somos h1, .somos p, .pp, .hh {
     padding-left: 60px;
@@ -321,7 +321,7 @@ footer {
   .boxx_footer {
     padding: 20px;
   }
-}
+}*/
 
 /* Pantallas menores a 768px (tablets verticales y celulares grandes) 
 @media (max-width: 768px) {
@@ -393,7 +393,7 @@ footer {
   }
 }
 */
-/* Pantallas menores a 480px (celulares pequeños) */
+/* Pantallas menores a 480px (celulares pequeños) 
 @media (max-width: 480px) {
   .texto-superpuesto {
     font-size: 0.9em;
@@ -411,7 +411,7 @@ footer {
 
   .slider-frame ul {
     flex-direction: column;
-  }
+  } */
 
   .slider-frame li {
     width: 100%;
